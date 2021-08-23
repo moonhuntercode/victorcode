@@ -1,2 +1,2 @@
 # victorcode
-an cv for me and for jobs
+a cv for me and for jobs
